@@ -7,9 +7,9 @@
 <!--                    
 <table class="table table-bordered">
   <tr><td width="150">Autocomplate</td><td><input type="text" id="name_user" name="product" class="form-control ui-autocomplete-input" placeholder="Masukan Nama user ..."></td></tr>
-  <tr><td>Select2</td><td><?php echo select2_dinamis('test', 'tbl_user', 'full_name', 'Masukan keyword ...') ?></td></tr>
-  <tr><td>Datalist</td><td><?php echo datalist_dinamis('test', 'tbl_user', 'full_name') ?></td></tr>
-  <tr><td>Combobox</td><td><?php echo cmb_dinamis('test', 'tbl_user', 'full_name', 'id_users') ?></td></tr>
+  <tr><td>Select2</td><td><?php // echo select2_dinamis('test', 'tbl_user', 'full_name', 'Masukan keyword ...') ?></td></tr>
+  <tr><td>Datalist</td><td><?php // echo datalist_dinamis('test', 'tbl_user', 'full_name') ?></td></tr>
+  <tr><td>Combobox</td><td><?php // echo cmb_dinamis('test', 'tbl_user', 'full_name', 'id_users') ?></td></tr>
 </table> 
 -->
 <!DOCTYPE html>
